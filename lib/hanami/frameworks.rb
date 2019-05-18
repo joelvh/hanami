@@ -1,5 +1,5 @@
 require 'hanami/utils'
-require 'hanami/validations'
+# require 'hanami/validations'
 require 'hanami/router'
 require 'hanami/view'
 require 'hanami/controller'
